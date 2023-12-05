@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactProjectOne/static/css/main.2c687d0c.css",
+    "main.js": "/reactProjectOne/static/js/main.650e92a8.js",
+    "static/media/vision.png": "/reactProjectOne/static/media/vision.067d4ae1936d64a577ce.png",
+    "static/media/mjolnir.png": "/reactProjectOne/static/media/mjolnir.61f31e1809f12183a524.png",
+    "static/media/error.gif": "/reactProjectOne/static/media/error.42292aa12b6bc303ce99.gif",
+    "index.html": "/reactProjectOne/index.html",
+    "main.2c687d0c.css.map": "/reactProjectOne/static/css/main.2c687d0c.css.map",
+    "main.650e92a8.js.map": "/reactProjectOne/static/js/main.650e92a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c687d0c.css",
+    "static/js/main.650e92a8.js"
+  ]
+}
